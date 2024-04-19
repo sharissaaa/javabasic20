@@ -1,0 +1,7 @@
+C:\Users\cclab10>cd..
+
+C:\Users>e:
+
+E:\>cd sha java
+
+E:\sha java>javac MThread.java
